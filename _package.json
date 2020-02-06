@@ -1,0 +1,16 @@
+{
+  "name": "DCDLEAFY.github.io__TESTING",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest hereAPI.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.1.1",
+    "jest": "^25.1.0"
+  }
+}
