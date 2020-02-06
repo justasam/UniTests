@@ -25,4 +25,4 @@ describe('HERE Maps API and Geolocation tests', () => {
     expect(globalData.Response).toBeDefined();
     expect(globalData.Response.View[0].Result[0].Location.NavigationPosition[0]).toEqual(TEST_LATLONG);
   });
-})
+});
